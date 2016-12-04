@@ -1,0 +1,147 @@
+body{
+  background: #ECE8EF;
+  width: 100%;
+}
+.head{
+  font-size: 55px;
+  position: absolute;
+  top: 2px;
+  left: 90%;
+}
+#logo{
+  border-radius: 50%;
+}
+.head-1{
+position: absolute;
+top: 65px;
+left: 45%;
+font-family: cursive;
+font-size: 35px;
+}
+.border-1{
+  margin-top: 40px;
+  padding-top:0px;
+  padding-left: 15px;
+  padding-right: 15px;
+  background: white;
+  font-family: inherit;
+  position: absolute;
+  top: 120px;
+  left:38%;
+}
+
+.border-2{
+  background: white;
+  position: absolute;
+  top: 280px;
+  left:38%;
+  padding-right: 217px;
+  padding-top: 0;
+  padding-left:15px;
+  padding-bottom: 22%;
+}
+ .input-1{
+  position: absolute;
+  top: 380px;
+  left:38%;
+  padding: 0 15px 0;
+}
+
+.pass{
+  position: absolute;
+  top: 415px;
+  left:38%;
+  padding-top: 0;
+  padding-left:15px;
+  padding-bottom: 30%;
+  font-size: 18px;
+}
+
+.forget-password{
+  position: absolute;
+  top: 435px;
+  left:56%;
+  padding-top: 0;
+  padding-left:15px;
+  padding-bottom: 30%;
+  font-size: 18px;
+}
+
+.input-2{
+  width:100%;
+  padding: 0 15px 0;
+  position: absolute;
+  top: 465px;
+  left:38%;
+}
+
+.sign-in{
+  border-width: 100%;
+  border-color: gray;
+  position: absolute;
+  top: 520px;
+  left:50%;
+  border-radius: 10px;
+font-family: sans-serif;
+}
+
+.p-2{
+  position: absolute;
+  top: 580px;
+  left:41%;
+  padding: 0 15px 0;
+  font-style: italic;
+  margin-bottom: 0;
+}
+
+
+.sign-in-2{
+  font-style: oblique;
+  color: red;
+  position: absolute;
+  top: 600px;
+  left:45%;
+  padding: 20px;
+  margin-top:0;
+}
+
+.img-4{
+  position: absolute;
+  top: 614px;
+  left:44%;
+}
+
+.footer {
+  position: absolute;
+  top: 90%;
+  width: 100%;
+  margin-top: 250px;
+  background-color: white;
+  color: #57564F;
+}
+.left {
+  float: left;
+  margin-left: 25px;
+  font-size: 10pt;
+  position: absolute;
+  top: 25px;
+  left: 4%;
+  font-size: 15px;
+}
+.center {
+  position: absolute;
+  top: 40%;
+  left: 45%;
+  font-size: 15px;
+}
+.right{
+  float: right;
+  margin-right: 75px;
+  font-size: 15pt;
+  font-size: 15px;
+}
+.logo-4{
+  position: absolute;
+  left: 4%;
+  top: 22px;
+}
