@@ -136,7 +136,7 @@ border-style: ridge;
 
 .footer {
   position: absolute;
-  top: 90%;
+  top: 100%;
   width: 100%;
   margin-top: 250px;
   background-color: gray;
